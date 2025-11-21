@@ -1,7 +1,7 @@
 
-# Megamenu
+# Flex-Training
 
-This is my first project which is a Megamenu with HTML & CSS
+This is my first flex training which has a Megamenu and video with HTML & CSS
 
 
 ## 🚀      About Me
