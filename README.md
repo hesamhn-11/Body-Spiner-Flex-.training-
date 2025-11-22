@@ -5,7 +5,7 @@ This is my first flex training which has a Megamenu and video and it is a cloth 
 
 
 ## 🚀      About Me
-I'm Hesam a fresh Front-end student who is trying to learn and improve in web skills ! I would love to continue this journey !
+I'm Hesam a fresh Front-end student who is trying to learn and improve in web skills ! I would love to continue this journey ! I study at Parnian web design school.
 
 ## 💬Information
 
