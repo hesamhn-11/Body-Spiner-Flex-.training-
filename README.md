@@ -1,7 +1,7 @@
 
-# Flex-Training (Dane studio)
+# Flex-Training (Body Spiner)
 
-This is my first flex training which has a Megamenu and video with HTML & CSS
+This is my first flex training which has a Megamenu and video and it is a cloth brand page that has made with HTML & CSS
 
 
 ## 🚀      About Me
@@ -9,16 +9,15 @@ I'm Hesam a fresh Front-end student who is trying to learn and improve in web sk
 
 ## 💬Information
 
--   🌐[Demo Project](https://hesamhn-11.github.io/Body-Spiner-Flex-.training-/) 
+-   🌐[Demo Project]([https://hesamhn-11.github.io/Body-Spiner-Flex-.training-/](https://hesamhn-11.github.io/Body-Spiner-Flex-.training-/)) 
 -  💻Developed by Hesam Hassannejad
  -  🕒Date: 2025-11-21
  -  🔍Technologies Used - HTML , CSS 
 
 ## Screenshots
 
-<img width="1898" height="876" alt="Image" src="https://github.com/user-attachments/assets/a2085beb-243c-4780-a899-98e847f394ba" />
-<img width="1902" height="870" alt="Image" src="https://github.com/user-attachments/assets/25e350ef-f4bf-4be4-9730-e3cf60d14e32" />
-<img width="1900" height="870" alt="Image" src="https://github.com/user-attachments/assets/b589c3c9-4295-4279-917a-c4772392d8b7" />
+<img width="1903" height="908" alt="Image" src="https://github.com/user-attachments/assets/bb8a0601-6653-46b9-9168-d8b6adaca51c" />
+<img width="1901" height="898" alt="Image" src="https://github.com/user-attachments/assets/a10e3cd9-7938-4d2c-ab5c-3a2271dcad47" />
 
 
 ## 🔗 Links
